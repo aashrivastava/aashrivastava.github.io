@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a 3rd year undergraduate at [UChicago](https://www.uchicago.edu/) studying Math with a minor in Education and Society. I am part of the [Conceptualization Lab](https://conceptualization.ai/) and [UChicago's Existential Risk Lab](https://xrisk.uchicago.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research seeks to further our understanding of how generative models work, their impacts on society in critical domains (e.g. education), and how they can ultimately be developed to augment humanity. I am focusing my research on 1) developing new evaluation frameworks for language models and 2) the interpretability of language models. Ultimately, my goal is to contribute to new paradigms in AI in order to make generative systems more transparent, reliable, and effective in benefitting society.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I am a member of [UChicago's track and field team](https://www.instagram.com/uchicagotf/?hl=en) as a high jumper and triple jumper. I also spend some time tutoring math and computer science to middle schoolers and high schoolers.
