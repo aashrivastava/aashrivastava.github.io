@@ -1,15 +1,18 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: Undergraduate Student at the University of Chicago. BS Mathematics. Minor in Education and Society.
+subtitle: >
+  Undergraduate Student at the University of Chicago.<br>
+  BS Mathematics.<br>
+  Minor in Education and Society.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>aashrivastava [at] uchicago [dot] edu</p>
+    <p style="font-size: 12px;">aashrivastava [at] uchicago [dot] edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
