@@ -4,8 +4,7 @@ title: home
 permalink: /
 subtitle: >
   Undergraduate Student at the University of Chicago.<br>
-  BS Mathematics.<br>
-  Minor in Education and Society.
+  BS Mathematics. Minor in Education and Society.
 
 profile:
   align: right
