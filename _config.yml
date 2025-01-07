@@ -146,10 +146,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - assets/json/resume.json
-  - _data/cv.yml
-  - _sass/_cv.scss
-  # above three are attempt to get rid of cv page
 keep_files:
   - CNAME
   - .nojekyll
