@@ -16,7 +16,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-attended-and-presented-our-work-at-the-harms-and-risks-of-ai-in-military-workshop-at-mila-and-the-socially-responsible-language-modelling-research-workshop-at-neurips-2024",
+        },{id: "news-joined-the-conceptualization-lab-to-be-advised-by-professor-ari-holtzman",
+          title: 'Joined the Conceptualization Lab to be advised by Professor Ari Holtzman!',
+          description: "",
+          section: "News",},{id: "news-attended-and-presented-our-work-at-the-harms-and-risks-of-ai-in-military-workshop-at-mila-and-the-socially-responsible-language-modelling-research-workshop-at-neurips-2024",
           title: 'Attended and presented our work at the Harms and Risks of AI in...',
           description: "",
           section: "News",},{
