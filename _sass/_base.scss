@@ -695,6 +695,8 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
+  text-align: left;
+  margin:0 auto;
   margin-top: 2rem;
 
   h1 {
@@ -722,6 +724,7 @@ footer.sticky-bottom {
   }
 
   ol.bibliography {
+    text-align: left;
     list-style: none;
     padding: 0;
     margin-top: 0;
