@@ -47,7 +47,13 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8 text-left{% else %}col-sm-10 text-left{% endif %}" style="text-align: left !important;">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+    {% if entry.url %}
+        <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
+    {% else %}
+        {{ entry.title }}
+    {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
