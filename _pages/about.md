@@ -27,4 +27,4 @@ I'm a 3rd year undergraduate at UChicago advised by [Ari Holtzman](https://ariho
 
 My research seeks to further our understanding of how generative models work, their impacts on society in critical domains (e.g., education), and how they can ultimately be developed to augment humanity. I am currently focusing my research on 1) developing new evaluation frameworks for language models and 2) the interpretability of language models. Ultimately, my goal is to contribute to new paradigms in AI in order to make generative systems more transparent, reliable, and effective all while keeping humans in mind.
 
-Outside of research, I am a member of the [UChicago track and field team](https://www.instagram.com/uchicagotf/?hl=en) as a high jumper and triple jumper. I also spend some time tutoring math and computer science to middle schoolers and high schoolers.
+Outside of research, I am a member of the [UChicago track and field team](https://athletics.uchicago.edu/sports/mens-track-and-field) as a high jumper and triple jumper. I also spend some time tutoring math and computer science to middle schoolers and high schoolers.
