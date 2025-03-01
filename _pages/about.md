@@ -11,7 +11,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 12px;">aashrivastava [at] uchicago [dot] edu</p>
+    <p style="font-size: 12px;">
+    aashrivastava [at] uchicago [dot] edu <br>
+    <a href="https://x.com/aryan_shri123" target="_blank">[X: aryan_shri123]</a> | 
+    <a href="https://scholar.google.com/citations?user=J6YX2YoAAAAJ&hl=en" target="_blank">[Google Scholar]</a>
+    </p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

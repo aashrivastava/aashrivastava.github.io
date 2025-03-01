@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /publications/
 title: publications and preprints
 description: In reversed chronological order.
