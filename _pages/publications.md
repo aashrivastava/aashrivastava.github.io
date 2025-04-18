@@ -7,9 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-<span style="font-size: 16px; font-weight: bold;">DICE: A Framework for Dimensional and Contextual Evaluation of Language Models</span>  
+<span style="font-size: 16px; font-weight: bold;">
+  <a href="https://arxiv.org/abs/2504.10359" target="_blank">DICE: A Framework for Dimensional and Contextual Evaluation of Language Models</a>
+</span>  
 ***Aryan Shrivastava*** and Paula Akemi Aoyagui  
-*Under Review*, 2024
+*CHI 2025 Human-Centered Evaluation and Auditing of Language Models (HEAL) Workshopw*, 2025
 
 <span style="font-size: 16px; font-weight: bold;">
   <a href="https://www.arxiv.org/abs/2502.16051" target="_blank">Moving Beyond Medical Exam Questions: A Clinician-Annotated Dataset of Real-World Tasks and Ambiguity in Mental Healthcare</a>
@@ -22,4 +24,4 @@ Max Lamparth, Declan Grabb, Amy Franks, Scott Gershan, Kaitlyn N. Kunstman, Aaro
   <a href="https://arxiv.org/abs/2410.13204" target="_blank">Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations</a>
 </span>  
 ***Aryan Shrivastava***, Jessica Hullman, Max Lamparth  
-*NeurIPS 2024 Socially Responsible Language Modelling Research Workshop; MILA 2024 Harms and Risks of AI in Military Workshop*, 2024
+*NeurIPS 2024 Socially Responsible Language Modelling Research (SoLaR) Workshop; MILA 2024 Harms and Risks of AI in Military Workshop*, 2024
