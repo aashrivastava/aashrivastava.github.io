@@ -696,7 +696,6 @@ footer.sticky-bottom {
 
 .publications {
   text-align: left;
-  margin: 0 auto;
   margin-top: 2rem;
 
   h1 {
@@ -734,10 +733,8 @@ footer.sticky-bottom {
       display: flex;
       flex-direction: column;
       align-items: flex-start;
-      padding: 0.5rem;
 
       .preview {
-        margin-bottom: 0.5rem;
       }
 
       .abbr {
@@ -766,7 +763,9 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
         font-size: 1em;
-        margin-bottom: 0.5rem;
+        width: 100%;
+        white-space: normal;
+        word-break: keep-all;
         a {
           color: var(--global-theme-color);
           text-decoration: none;
@@ -779,7 +778,6 @@ footer.sticky-bottom {
 
       .author {
         font-size: 1em;
-        margin-bottom: 0.5rem;
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -807,7 +805,6 @@ footer.sticky-bottom {
       }
 
       .links {
-        margin-bottom: 0.5rem;
         a.btn {
           color: black !important;
           border: 1px solid black !important;
