@@ -22,6 +22,9 @@ ninja.data = [{
           section: "News",},{id: "news-attended-and-presented-our-work-at-the-harms-and-risks-of-ai-in-military-workshop-at-mila-and-the-socially-responsible-language-modelling-research-workshop-at-neurips-2024",
           title: 'Attended and presented our work at the Harms and Risks of AI in...',
           description: "",
+          section: "News",},{id: "news-joined-algoverse-ai-research-as-a-mentor-to-high-school-and-college-students-through-their-first-formal-ai-research-experiences",
+          title: 'Joined Algoverse AI Research as a mentor to high school and college students...',
+          description: "",
           section: "News",},{
         id: 'social-x',
         title: 'X',
