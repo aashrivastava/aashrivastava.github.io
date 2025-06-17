@@ -8,6 +8,12 @@ nav_order: 2
 ---
 
 <span style="font-size: 16px; font-weight: bold;">
+  <a href="https://arxiv.org/abs/2506.11440" target="_blank">AbsenceBench: Language Models Can't Tell What's Missing</a>
+</span>  
+Harvey Yiyun Fu, ***Aryan Shrivastava***, Jared Moore, Peter West, Chenhao Tan, Ari Holtzman
+*Under Review*, 2025
+
+<span style="font-size: 16px; font-weight: bold;">
   <a href="https://arxiv.org/abs/2504.10359" target="_blank">DICE: A Framework for Dimensional and Contextual Evaluation of Language Models</a>
 </span>  
 ***Aryan Shrivastava*** and Paula Akemi Aoyagui  
