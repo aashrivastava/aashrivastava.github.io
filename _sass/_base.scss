@@ -696,7 +696,7 @@ footer.sticky-bottom {
 
 .publications {
   text-align: left;
-  margin:0 auto;
+  margin: 0 auto;
   margin-top: 2rem;
 
   h1 {
@@ -1359,6 +1359,8 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-text-color);
 }
 
-.bib, .bibtex, .row {
-    text-align: left;
-  }
+.bib,
+.bibtex,
+.row {
+  text-align: left;
+}

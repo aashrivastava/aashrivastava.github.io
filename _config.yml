@@ -81,7 +81,6 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
-
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
@@ -240,7 +239,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: Year
+  group_by: none
   group_order: descending # or descending
 
 # Display different badges withs stats for your publications
@@ -569,7 +568,6 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
-
 # -----------------------------------------------------------------------------
 # Get external JSON data ADD BACK FOR CV PAGE
 # -----------------------------------------------------------------------------

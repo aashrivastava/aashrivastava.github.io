@@ -45,14 +45,18 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8 text-left{% else %}col-sm-10 text-left{% endif %}" style="text-align: left !important;">
+  <div
+    id="{{ entry.key }}"
+    class="{% if site.enable_publication_thumbnails %}col-sm-8 text-left{% else %}col-sm-10 text-left{% endif %}"
+    style="text-align: left !important;"
+  >
     <!-- Title -->
     <div class="title">
-    {% if entry.url %}
+      {% if entry.url %}
         <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
-    {% else %}
+      {% else %}
         {{ entry.title }}
-    {% endif %}
+      {% endif %}
     </div>
     <!-- Author -->
     <div class="author">
