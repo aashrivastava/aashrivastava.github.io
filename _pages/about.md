@@ -3,7 +3,7 @@ layout: about
 title: home
 permalink: /
 subtitle: >
-  Undergraduate Student at the University of Chicago.<br>
+  Master's Student at the University of Chicago.<br>
   MS Computer Science. BS Mathematics. Minor in Education and Society.
 
 profile:
