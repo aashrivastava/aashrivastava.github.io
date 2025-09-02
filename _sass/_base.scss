@@ -884,9 +884,34 @@ footer.sticky-bottom {
         color: var(--global-text-color-light);
       }
 
+      // Force consistent width and wrapping behavior
+      .col-sm-10 {
+        max-width: 100%;
+        width: 100%;
+        flex: none;
+      }
+
       .title {
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.4rem !important;
+        line-height: 1.2 !important;
+        word-wrap: break-word;
+        word-break: break-word;
+        hyphens: auto;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+      }
+
+      .author {
+        margin-bottom: 0.2rem;
         line-height: 1.3;
+        width: 100%;
+        max-width: 100%;
+      }
+
+      // Bold your name in Jekyll Scholar publications
+      .author em {
+        font-weight: bold !important;
       }
     }
     div.award.hidden {

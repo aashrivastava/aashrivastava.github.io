@@ -21,6 +21,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+\[Note\]: I am actively seeking full-time roles in industry beginning after I graduate in June 2026. If you think I would be a good fit, feel free to reach out!
 
 I'm a student at UChicago advised by [Ari Holtzman](https://ariholtzman.com/) in a joint BS/MS program where I am obtaining an MS in Computer Science and BS in Mathematics. I am also obtaining a Minor in Education and Society. I am a member of the [Conceptualization Lab](https://conceptualization.ai/) and the [UChicago Existential Risk Lab](https://xrisk.uchicago.edu/). I also serve as a mentor to high school and college students through their first formal AI research experiences at [Algoverse AI Research](https://algoverseairesearch.org/).
 
