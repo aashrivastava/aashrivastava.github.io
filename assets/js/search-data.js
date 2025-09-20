@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-joined-algoverse-ai-research-as-a-mentor-to-high-school-and-college-students-through-their-first-formal-ai-research-experiences",
           title: 'Joined Algoverse AI Research as a mentor to high school and college students...',
           description: "",
+          section: "News",},{id: "news-our-work-absencebench-was-accepted-to-neurips-2025-as-a-spotlight",
+          title: 'Our work, AbsenceBench was accepted to NeurIPS 2025 as a Spotlight!',
+          description: "",
           section: "News",},{
         id: 'social-x',
         title: 'X',
